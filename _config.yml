@@ -1,3 +1,4 @@
+safe: false
 paginate: 7
 markdown: rdiscount
 pygments: true
