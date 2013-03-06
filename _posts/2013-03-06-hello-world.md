@@ -24,8 +24,7 @@ Finally, this blog was setup with the help of:
 * @mojombo's blog [source](https://github.com/mojombo/mojombo.github.com) 
 * and for post truncation: [Richard Huang's](http://huangzhimin.com/) blog [index.html](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/index.html) &amp; [_config.yml](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/_config.yml)
 
-How do to get started?
-----------------------
+### How do to get started? ###
 
 Here's an [intro](https://github.com/blog/272-github-pages) to GitHub Pages.
 
