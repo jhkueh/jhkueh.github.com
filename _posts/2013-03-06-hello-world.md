@@ -18,6 +18,7 @@ According to Jekyll's creator Tom Preston-Werner (@mojombo):
 Using databases are fine for a couple of things. But for a blog, I think that it is diffucult to do backups or to migrate another host/platform. Heck, even Wordpress generates static html files of your blog post via caching plugins for faster page load, so why use a database at all?
 
 Finally, this blog was setup with the help of:
+
 * Github's [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator)
 * Jekyll's [README](https://github.com/mojombo/jekyll/blob/master/README.textile)
 * @mojombo's blog [source](https://github.com/mojombo/mojombo.github.com) 
