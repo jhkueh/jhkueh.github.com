@@ -22,7 +22,7 @@ Finally, this blog was setup with the help of:
 * Github's [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator)
 * Jekyll's [README](https://github.com/mojombo/jekyll/blob/master/README.textile)
 * @mojombo's blog [source](https://github.com/mojombo/mojombo.github.com) 
-* and for post truncation: [Richard Huang's](http://huangzhimin.com/) blog [index.html](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/index.html) &amp; [_config.yml](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/_config.yml)
+* and for post truncation: @MattHall's [plugin](https://github.com/MattHall/truncatehtml), [Richard Huang's](http://huangzhimin.com/) blog [index.html](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/index.html) &amp; [_config.yml](https://github.com/flyerhzm/flyerhzm.github.com/blob/master/_config.yml)
 
 ### How do to get started? ###
 
