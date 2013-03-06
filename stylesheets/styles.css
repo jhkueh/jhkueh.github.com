@@ -173,7 +173,6 @@ footer {
     top:52px;
   }
 }
-
 @media print, screen and (max-width: 720px) {
   body { word-wrap:break-word;}
   header { padding:0;}
