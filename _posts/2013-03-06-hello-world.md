@@ -10,10 +10,11 @@ Why is it cool? Firstly, it is hosted on Github. Secondly, whenever I push my bl
 Why avoid databases?
 
 Scott Chacon (@schacon) of Github has this to say:
-"In the past, I have had two catastrophic data losses from my hosting providers losing a good number of my posts. Each time I thought I would finally remember to setup something that would back them up, but I never did." [1]
+>"In the past, I have had two catastrophic data losses from my hosting providers losing a good number of my posts. Each time I thought I would finally remember to setup something that would back them up, but I never did." [1]
+
 
 According to Jekyll's creator Tom Preston-Werner (@mojombo):
-"I was tired of having my blog posts end up in a database off on some remote server. That is backwards. I’ve lost valuable posts that way. I want to author my posts locally in Textile or Markdown. My blog should be easily stylable and customizable any way I please. It should take care of creating a feed for me. And most of all, my site should be stored on GitHub so that I never lose data again." [2]
+>"I was tired of having my blog posts end up in a database off on some remote server. That is backwards. I’ve lost valuable posts that way. I want to author my posts locally in Textile or Markdown. My blog should be easily stylable and customizable any way I please. It should take care of creating a feed for me. And most of all, my site should be stored on GitHub so that I never lose data again." [2]
 
 Using databases are fine for a couple of things. But for a blog, I think that it is diffucult to do backups or to migrate another host/platform. Heck, even Wordpress generates static html files of your blog post via caching plugins for faster page load, so why use a database at all?
 
