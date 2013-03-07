@@ -8,7 +8,7 @@ title: Hello World!
 
 Hello World! This blog hosted is on [Github](https://github.com/). It is written in [Markdown](http://daringfireball.net/projects/markdown/), powered by [Jekyll](http://github.com/mojombo/jekyll). A cool new toy which I just discovered at [Github Pages](http://pages.github.com/). I had being playing with it for the last 2-3 hours.
 
-Why is it cool? Firstly, it is hosted on Github. Secondly, whenever I push my blog's [repository](https://github.com/jhkueh/jhkueh.github.com) to GitHub, Jekyll will transforms it into a static site. Not just Markdown file, it supports [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) too. No database needed.
+Why is it cool? Firstly, it is hosted on Github. Secondly, whenever I push my blog's [repository](https://github.com/jhkueh/jhkueh.github.com) to GitHub, Jekyll will transforms it into a static site. Not just Markdown file, it supports [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language\)) too. No database needed.
 
 Why avoid databases?
 
