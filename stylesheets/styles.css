@@ -70,6 +70,7 @@ dt {
 th {
   color:#444;
 }
+ul.posts {list-style-type: none;}
 img {
   max-width:100%;
 }

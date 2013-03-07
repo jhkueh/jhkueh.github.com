@@ -4,6 +4,7 @@ title: Hello World!
 ---
 
 {{ page.title }}
+================
 
 Hello World! This blog hosted is on [Github](https://github.com/). It is written in [Markdown](http://daringfireball.net/projects/markdown/), powered by [Jekyll](http://github.com/mojombo/jekyll). A cool new toy which I just discovered at [Github Pages](http://pages.github.com/). I had being playing with it for the last 2-3 hours.
 
