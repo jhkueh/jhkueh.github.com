@@ -42,7 +42,7 @@ So in my spare time, I google around and found this stack*overflow* [answer](htt
 
 Here’s the JS source code:
 
-```javascript
+{% highlight javascript %}
 $("td#tdR").click(function () {
 	var grID = $(this).find('input:radio').attr('id');
 	  var grName = $(this).find('input:radio').attr('name');
@@ -60,11 +60,11 @@ $("td#tdR").click(function () {
 		$(':radio[name='+grName+'][id='+grID+']').prop('checked', true);
 	  }
 });
-```
+{% endhighlight %}
 
 And here’s the optimised code (after I read about efficient css selector from [csswizardry](http://csswizardry.com/)):
 
-```javascript
+{% highlight javascript %}
 $("td#tdR").click(function () {
 	var curTD = $(this);
 	var curRD = curTD.find('input[type=radio]');
@@ -83,7 +83,7 @@ $("td#tdR").click(function () {
 	}
 	curRD.prop('checked', true);
 });
-```
+{% endhighlight %}
 
 Well, that's the progress so far. I had learn PHP & jQuerry while working on this project, as well as UI/UX.
 
