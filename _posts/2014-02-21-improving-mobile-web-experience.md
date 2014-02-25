@@ -42,11 +42,14 @@ In this section, I am going to show how HTML5 give mobile web users a better Use
 Below is the UX of the original email field:
 ![original email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-bad.png "original email UX")
 
+
 With HTML5, noticed the '@' besides the spacebar:
 ![improved email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-good.png "improved email UX")
 
+
 The above example may not seem like a big improvement if you have [TouchPal](www.touchpal.com/) installed. But what if you need to enter in a telephone number? This is what we have in the original.
 ![original phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-bad.png "original phone UX")
+
 
 With HTML5, users are presented with the keypad right away when selecting the phone field, which makes a better UX.
 ![improved phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-good.png "improved phone UX")
