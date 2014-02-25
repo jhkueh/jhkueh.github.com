@@ -40,18 +40,19 @@ In a world where we see massive adoption in mobile devices, ignoring mobile web 
 In this section, I am going to show how HTML5 give mobile web users a better User Experience (UX).
 
 Below is the UX of the original email field:
+
 ![original email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-bad.png "original email UX")
 
-
 With HTML5, noticed the '@' besides the spacebar:
+
 ![improved email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-good.png "improved email UX")
 
-
 The above example may not seem like a big improvement if you have [TouchPal](www.touchpal.com/) installed. But what if you need to enter in a telephone number? This is what we have in the original.
+
 ![original phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-bad.png "original phone UX")
 
-
 With HTML5, users are presented with the keypad right away when selecting the phone field, which makes a better UX.
+
 ![improved phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-good.png "improved phone UX")
 
 ### How's it done ###
@@ -91,16 +92,16 @@ Suggestions for further improvements:
 + Enable gzip on server-side
 + Refer to [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.teapotdigital.com.au%2F) for further suggestions
 
-Additional resources:
+### Conclusion ###
+
+I hope that everyone who has read this far has learned a thing or two. Again, [here](http://jhkueh.github.io/teapot_digital_CI/) is the improved demo page, in case anyone missed it. One piece of final advice I can give is to always keep on learning. HTML5 will be finalised at the end of this year and there is bound to be richer web experience, be it mobile or desktop, that is being explored. It will certainly open up new possibilities never thought of before as technologies advance. What I have showcase here is the fruit of my learning at Udacity's [Mobile Web Development](https://www.udacity.com/course/cs256) course. Stay Udacious!
+
+### Additional resources ###
 
 + [HTML5rocks.com](http://www.html5rocks.com/) has some excellent articles on improving site performance and mobile experience
 + Follow [#perfmatters](https://plus.google.com/explore/perfmatters) on Google+
 + Use the [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) tool
 + [Egghead.io](http://egghead.io) for excellent bite-size AngularJS tutorial videos
-
-### Conclusion ###
-
-I hope that everyone who has read this far has learned a thing or two. Again, [here](http://jhkueh.github.io/teapot_digital_CI/) is the improved demo page, in case anyone missed it. One piece of final advice I can give is to always keep on learning. HTML5 will be finalised at the end of this year and there is bound to be richer web experience, be it mobile or desktop, that is being explored. It will certainly open up new possibilities never thought of before as technologies advance. What I have showcase here is the fruit of my learning at Udacity's [Mobile Web Development](https://www.udacity.com/course/cs256) course. Stay Udacious!
 
 --
 <p class="meta">25 February 2014</p>
