@@ -80,11 +80,13 @@ Here's the results from the [PageSpeed Insights](https://developers.google.com/s
 The improved page can be viewed [here](http://jhkueh.github.io/teapot_digital_CI/).
 
 Suggestions for further improvements:
+
 * Optimise css, javascript and image file size
 * Enable gzip on server-side
 * Refer to [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.teapotdigital.com.au%2F) for further suggestions
 
 Additional resources:
+
 * [HTML5rocks.com](http://www.html5rocks.com/) has some excellent articles on improving site performance and mobile experience
 * Follow [#perfmatters](https://plus.google.com/explore/perfmatters) on Google+
 * Use the [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) tool
