@@ -28,9 +28,9 @@ Next, the description from a SlideShare titled [Thinking Mobile First](http://ww
 > "In 2014, more users will access the web on mobile devices (smartphones + tablets) than with 'desktop' machines."
 >
 > Highlights of the presentation include:
-> * More people use Twitter on mobile than on the web ([71% vs 64%](http://www.strategyanalytics.com/default.aspx?mod=pressreleaseviewer&a0=5350))
-> * [71%](http://www.prnewswire.com/news-releases/facebook-reports-fourth-quarter-and-full-year-2012-results-189078621.html) of Facebook's Monthly Active Users are on mobile
-> * [48%](http://emailclientmarketshare.com/) of e-mails are opened on mobile devices
+> + More people use Twitter on mobile than on the web ([71% vs 64%](http://www.strategyanalytics.com/default.aspx?mod=pressreleaseviewer&a0=5350))
+> + [71%](http://www.prnewswire.com/news-releases/facebook-reports-fourth-quarter-and-full-year-2012-results-189078621.html) of Facebook's Monthly Active Users are on mobile
+> + [48%](http://emailclientmarketshare.com/) of e-mails are opened on mobile devices
 
 In a world where we see massive adoption in mobile devices, ignoring mobile web users is no longer an option anymore. Businesses who do, will lose out because "61% of people have a better opinion of brands when they offer a good mobile experience" according to [Latitude](http://files.latd.com/Latitude-Next-Gen-Retail-Study.pdf).
 
@@ -39,15 +39,19 @@ In a world where we see massive adoption in mobile devices, ignoring mobile web 
 In this section, I am going to show how HTML5 give mobile web users a better User Experience (UX).
 
 Below is the UX of the original email field:
+
 ![original email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-bad.png "original email UX")
 
 With HTML5, noticed the '@' besides the spacebar:
+
 ![improved email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-good.png "improved email UX")
 
 The above example may not seem like a big improvement if you have [TouchPal](www.touchpal.com/) installed. But what if you need to enter in a telephone number? This is what we have in the original.
+
 ![original phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-bad.png "original phone UX")
 
 With HTML5, users are presented with the keypad right away when selecting the phone field, which makes a better UX.
+
 ![improved phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-good.png "improved phone UX")
 
 ### How's it done ###
@@ -79,18 +83,20 @@ Here's the results from the [PageSpeed Insights](https://developers.google.com/s
 
 The improved page can be viewed [here](http://jhkueh.github.io/teapot_digital_CI/).
 
+Here are some examples of things we do open source and why:
+
 Suggestions for further improvements:
 
-* Optimise css, javascript and image file size
-* Enable gzip on server-side
-* Refer to [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.teapotdigital.com.au%2F) for further suggestions
++ Optimise css, javascript and image file size
++ Enable gzip on server-side
++ Refer to [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.teapotdigital.com.au%2F) for further suggestions
 
 Additional resources:
 
-* [HTML5rocks.com](http://www.html5rocks.com/) has some excellent articles on improving site performance and mobile experience
-* Follow [#perfmatters](https://plus.google.com/explore/perfmatters) on Google+
-* Use the [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) tool
-* [Egghead.io](http://egghead.io) for excellent bite-size AngularJS tutorial videos
++ [HTML5rocks.com](http://www.html5rocks.com/) has some excellent articles on improving site performance and mobile experience
++ Follow [#perfmatters](https://plus.google.com/explore/perfmatters) on Google+
++ Use the [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) tool
++ [Egghead.io](http://egghead.io) for excellent bite-size AngularJS tutorial videos
 
 ### Conclusion ###
 
