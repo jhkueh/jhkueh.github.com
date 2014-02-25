@@ -28,6 +28,7 @@ Next, the description from a SlideShare titled [Thinking Mobile First](http://ww
 > "In 2014, more users will access the web on mobile devices (smartphones + tablets) than with 'desktop' machines."
 >
 > Highlights of the presentation include:
+>
 > + More people use Twitter on mobile than on the web ([71% vs 64%](http://www.strategyanalytics.com/default.aspx?mod=pressreleaseviewer&a0=5350))
 > + [71%](http://www.prnewswire.com/news-releases/facebook-reports-fourth-quarter-and-full-year-2012-results-189078621.html) of Facebook's Monthly Active Users are on mobile
 > + [48%](http://emailclientmarketshare.com/) of e-mails are opened on mobile devices
