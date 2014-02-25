@@ -26,11 +26,12 @@ Then, we have headlines from [Business Insider](http://www.businessinsider.com/m
 
 Next, the description from a SlideShare titled [Thinking Mobile First](http://www.slideshare.net/jordanharper/thinking-mobile-first-27889681) by Jordan Harper writes:
 > "In 2014, more users will access the web on mobile devices (smartphones + tablets) than with 'desktop' machines."
->
-> Highlights of the presentation include:
-> More people use Twitter on mobile than on the web ([71% vs 64%](http://www.strategyanalytics.com/default.aspx?mod=pressreleaseviewer&a0=5350))
-> [71%](http://www.prnewswire.com/news-releases/facebook-reports-fourth-quarter-and-full-year-2012-results-189078621.html) of Facebook's Monthly Active Users are on mobile
-> [48%](http://emailclientmarketshare.com/) of e-mails are opened on mobile devices
+
+Highlights of the presentation include:
+
++ More people use Twitter on mobile than on the web ([71% vs 64%](http://www.strategyanalytics.com/default.aspx?mod=pressreleaseviewer&a0=5350))
++ [71%](http://www.prnewswire.com/news-releases/facebook-reports-fourth-quarter-and-full-year-2012-results-189078621.html) of Facebook's Monthly Active Users are on mobile
++ [48%](http://emailclientmarketshare.com/) of e-mails are opened on mobile devices
 
 In a world where we see massive adoption in mobile devices, ignoring mobile web users is no longer an option anymore. Businesses who do, will lose out because "61% of people have a better opinion of brands when they offer a good mobile experience" according to [Latitude](http://files.latd.com/Latitude-Next-Gen-Retail-Study.pdf).
 
