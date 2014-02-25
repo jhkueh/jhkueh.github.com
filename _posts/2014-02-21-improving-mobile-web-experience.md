@@ -40,27 +40,23 @@ In a world where we see massive adoption in mobile devices, ignoring mobile web 
 In this section, I am going to show how HTML5 give mobile web users a better User Experience (UX).
 
 Below is the UX of the original email field:
-
 ![original email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-bad.png "original email UX")
 
 With HTML5, noticed the '@' besides the spacebar:
-
 ![improved email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-good.png "improved email UX")
 
 The above example may not seem like a big improvement if you have [TouchPal](www.touchpal.com/) installed. But what if you need to enter in a telephone number? This is what we have in the original.
-
 ![original phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-bad.png "original phone UX")
 
 With HTML5, users are presented with the keypad right away when selecting the phone field, which makes a better UX.
-
 ![improved phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-good.png "improved phone UX")
 
 ### How's it done ###
 HTML5 introduces a few <code>[input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)</code> 'type'. So just change the input type to <code>email</code> or <code>tel</code>, instead of <code>text</code>, like so:
 
 {% highlight html %}
-	<input name="form_67_email" type="email" ... required="">
-	<input name="form_67_phone" type="tel"   ... required="">
+<input name="form_67_email" type="email" ...... required="">
+<input name="form_67_phone" type="tel"   ...... required="">
 {% endhighlight %}
 
 While there is no discernible difference for non-mobile browsers, these properties provides a better UX on mobile web browsers. As for older mobile web browsers that didn't support HTML5, they will just appear as a normal input field.
