@@ -1,7 +1,7 @@
-My Jekyll-Powered Blog [jhkueh.github.com]
+My Jekyll-Powered Blog [jhkueh.github.io]
 ==========================================
 
-My blog: [jhkueh.github.com](http://jhkueh.github.com)
+My blog: [jhkueh.github.io](http://jhkueh.github.io)
 
 What is [Jekyll](http://github.com/mojombo/jekyll)?
 ---------------------------------------------------
