@@ -6,6 +6,24 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+		<style type="text/css">
+			.inline-list {
+				margin: 0 0 1.0625rem -1.375rem;
+				padding: 0;
+				list-style: none;
+				overflow: hidden;
+			}
+			
+			.social-menu > li { display: block; margin-left: 0.35rem;}
+			
+			div.fa { width: 24px; height: 24px; border-radius: 12px; text-align: center;}
+
+			div.linkedin { background: #0077B5;}
+			div.linkedin:hover { background: #005D8E;}
+			
+			svg.fa { width: 16px; height: 19px; margin-top: 3px;}
+			svg.fa-github { width: 24px; height: 24px; margin-top: 3px;}
+		</style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -23,8 +41,8 @@
       </header>
 	  {{ content }}
       <footer>
-				<small>
-					<p>
+				
+					
 						<ul class="inline-list social-menu">
 							<li>
 								<a href="https://github.com/jhkueh">
@@ -40,28 +58,10 @@
 									</div>
 								</a>
 							</li>
-					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> &amp; modified <a href="https://github.com/orderedlist">orderedlist</a> theme. Hosted on GitHub Pages.</small></p>
+				<p><small>	Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> &amp; modified <a href="https://github.com/orderedlist">orderedlist</a> theme. Hosted on GitHub Pages.</small></p>
 				</small>	
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
-		<style type="text/css">
-			.inline-list {
-				margin: 0 0 1.0625rem -1.375rem;
-				padding: 0;
-				list-style: none;
-				overflow: hidden;
-			}
-			
-			.social-menu > li { margin-left: 0.35rem;}
-			
-			div.fa { width: 24px; height: 24px; border-radius: 12px; text-align: center;}
-
-			div.linkedin { background: #0077B5;}
-			div.linkedin:hover { background: #005D8E;}
-			
-			svg.fa { width: 16px; height: 19px; margin-top: 3px;}
-			svg.fa-github { width: 24px; height: 24px; margin-top: 3px;}
-		</style>
   </body>
 </html>
