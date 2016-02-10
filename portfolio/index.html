@@ -9,7 +9,7 @@ cssExtra: card.css
 		{% for project in site.categories.portfolio %}
 			<div class="card pCard">
 				<a href="{{ project.url }}" title="{{ project.title }}">
-					<img class="card-img-top" src="{{ project.thumbnail_url }}" alt="{{ project.img_alt }}">
+					<img class="card-img-top" src="{{ project.thumbnail_url }}" alt="{{ project.thumbnail_alt }}">
 				</a>
         <div class="card-block">
 					<h4 class="card-title"><a href="{{ project.url }}">{{ project.title }}</a></h4>
