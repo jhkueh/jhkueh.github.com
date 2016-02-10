@@ -6,4 +6,5 @@ thumbnail_alt: GreatJourneyMigration.com.au
 date_range: 2015-2016
 ---
 
+{: class="card-text"}
 Frontend: Foundation & various JS libraries.<br/>Backend: Laravel Lumen (PHP)
