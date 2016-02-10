@@ -6,6 +6,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+		{% if page.cssExtra %}<link rel="stylesheet" href="/stylesheets/{{ page.cssExtra }}">{% endif %}
 		<style type="text/css">
 			.inline-list {
 				margin: 0 0 0.5rem -0.7rem;
