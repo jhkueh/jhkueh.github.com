@@ -6,4 +6,5 @@ thumbnail_alt: freeCodeCamp Portfolio
 date_range: 2016
 ---
 
+{: class="card-text"}
 Frontend: Foundation & jQuery.<br/>Backend: —

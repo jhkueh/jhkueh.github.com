@@ -6,4 +6,5 @@ thumbnail_alt: Local Weather App
 date_range: Jan 2016
 ---
 
+{: class="card-text"}
 Frontend: Foundation & Vue.js.<br/>Backend: —

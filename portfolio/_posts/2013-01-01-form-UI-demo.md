@@ -6,5 +6,6 @@ thumbnail_alt: Form UI Demo
 date_range: 2013-2014
 ---
 
+{: class="card-text"}
 Frontend: Bootstrap, jQuery, AngularJS, & UI Bootstrap.  
 Backend: —

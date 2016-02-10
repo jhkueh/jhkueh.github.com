@@ -6,5 +6,6 @@ thumbnail_alt: JavaScript Calculator
 date_range: Jan 2016
 ---
 
+{: class="card-text"}
 Frontend: Foundation & Vue.js.  
 Backend: —

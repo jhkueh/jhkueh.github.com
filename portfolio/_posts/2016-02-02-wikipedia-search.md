@@ -6,4 +6,5 @@ thumbnail_alt: Wikipedia Search
 date_range: Feb 2016
 ---
 
+{: class="card-text"}
 Frontend: Foundation & Vue.js.<br/>Backend: —
