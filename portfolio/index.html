@@ -5,9 +5,18 @@ cssExtra: card.css
 ---
     <section>
 		<h1>Portfolio</h1>
-		<ul class="posts">
-			{% for project in site.categories.portfolio %}
-			<li><span>{{ project.date | date_to_string }}</span> &raquo; <a href="{{ project.url }}">{{ project.title }}</a></li>
-			{% endfor %}
-		</ul>
+		<div class="cardContainer">
+		{% for project in site.categories.portfolio %}
+			<div class="card pCard">
+				<a href="{{ project.url }}" title="{{ project.title }}">
+					<img class="card-img-top" src="{{ project.thumbnail_url }}" alt="{{ project.img_alt }}">
+				</a>
+        <div class="card-block">
+					<h4 class="card-title"><a href="{{ project.url }}">{{ project.title }}</a></h4>
+          <p class="card-text">{{ project.content }}</p>
+          <p class="card-text"><small class="text-muted">{{ project.date_range }}</small></p>
+          </div>
+        </div>
+		{% endfor %}
+		</div>
     </section>
