@@ -6,5 +6,5 @@ thumbnail_alt: Form UI Demo
 date_range: 2013-2014
 ---
 
-Frontend: Bootstrap, jQuery, AngularJS, & UI Bootstrap.
+Frontend: Bootstrap, jQuery, AngularJS, & UI Bootstrap.  
 Backend: —

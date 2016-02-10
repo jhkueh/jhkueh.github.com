@@ -6,5 +6,5 @@ thumbnail_alt: Custom Google Map
 date_range: Feb 2015
 ---
 
-Frontend: Foundation & vanilla JS.
+Frontend: Foundation & vanilla JS.  
 Backend: —
