@@ -21,14 +21,14 @@
 	margin-bottom: 0;
 }
 
+@media (max-width: 650px){
+	.card { margin: 0 }
+}
+
 @media (min-width: 650px){
-	.card {
-    width: 46%;
-	}
+	.card { width: 46% }
 }
 
 @media (min-width: 1300px){
-	.card {
-    width: 30%;
-	}
+	.card { width: 30% }
 }
