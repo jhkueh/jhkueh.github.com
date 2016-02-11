@@ -21,7 +21,7 @@
 .card-text:last-child {
 	margin-bottom: 0;
 }
-.text-muted { color: #777 }
+.text-muted { color: #999 }
 
 @media (max-width: 650px){
 	.card { margin: 0 0 1.25rem }
