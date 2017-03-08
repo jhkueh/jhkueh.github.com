@@ -8,11 +8,11 @@ cssExtra: card.css
 		<div class="cardContainer">
 		{% for project in site.categories.portfolio %}
 			<div class="card pCard">
-				<a href="{{ project.url }}" title="{{ project.title }}">
+				<a href="{{ project.link }}" title="{{ project.title }}">
 					<img class="card-img-top" src="{{ project.thumbnail_url }}" alt="{{ project.thumbnail_alt }}">
 				</a>
         <div class="card-block">
-					<h4 class="card-title"><a href="{{ project.url }}">{{ project.title }}</a></h4>
+					<h4 class="card-title"><a href="{{ project.link }}">{{ project.title }}</a></h4>
           {{ project.content }}
           <p class="card-text"><small class="text-muted">{{ project.date_range }}</small></p>
           </div>
