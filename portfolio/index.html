@@ -11,7 +11,7 @@ cssExtra: card.css
 				{% if project.external-url %}
 				<a href="{{ project.external-url }}" title="{{ project.title }}">
 				{% else %}
-				<a title="{{ project.title }}">
+				<a href="{{ project.url }}" title="{{ project.title }}">
 				{% endif %}
 					<img class="card-img-top" src="{{ project.thumbnail_url }}" alt="{{ project.thumbnail_alt }}">
 				</a>
@@ -20,7 +20,7 @@ cssExtra: card.css
 					{% if project.external-url %}
 						<a href="{{ project.external-url }}">{{ project.title }}</a>
 					{% else %}
-						<a title="{{ project.title }}">{{ project.title }}</a>
+						<a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a>
 					{% endif %}
 					</h4>
           {{ project.content }}
