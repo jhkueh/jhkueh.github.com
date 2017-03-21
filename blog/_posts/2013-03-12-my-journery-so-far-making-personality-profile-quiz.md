@@ -22,15 +22,15 @@ As for our team structure, we had a small team (7 developers) and each of us wor
 
 Each pair of us picked a module to work on (from the backend to the frontend). Tim picked the most complex module (personality profile quiz) which has been a good learning experience. The form had 20+ questions and each question had 2 columns (_Most_ &amp; _Least_) of 4 rows answers to choose from. So a user has to select an answer from the _Most_ &amp; _Least_ columns each and answers from the same rows cannot be selected twice. Here's the origianl form:
 
-![original form](http://dl.dropbox.com/u/72768665/github/2013.03.12/original_form.png "original form")
+![original form](https://www.dropbox.com/s/tf5lzgdfkx8iew8/original_form.png?raw=1 "original form")
 
 At first, I wondered if I should make a sprite of the symbols to render the answers, just like how *Twitter Bootstrap* uses *Icon glyphs*. Then, Tim pointed out that having the symbols would influence users to fill the form with bias, which makes sense. So, they got replaced with radio buttons instead.
 
-![radio buttons](http://dl.dropbox.com/u/72768665/github/2013.03.12/radio_buttons.png "radio buttons")
+![radio buttons](https://www.dropbox.com/s/4v6l03bw9l4eajy/radio_buttons.png?raw=1 "radio buttons")
 
 Next, how do we make sure that users only select an answer from the same row? And not this:
 
-![radio buttons error](http://dl.dropbox.com/u/72768665/github/2013.03.12/radio_buttons_err.png "radio buttons error")
+![radio buttons error](https://www.dropbox.com/s/x6mixj99k9lfjfx/radio_buttons_err.png?raw=1 "radio buttons error")
 
 Tim assured me that it can be done with jQuery. Sure, why not? I  was using Bootstrap for this module and Bootstrap uses jQuery for some of its components to work. However, I didn’t know jQuery at all, although I know a little bit of JavaScript (since it’s similar to C &amp; C++).
 
@@ -38,7 +38,7 @@ Part of our discussion also centred on the UI/UX of the web form. Initially, I t
 
 So in my spare time, I google around and found this stack*overflow* [answer](http://stackoverflow.com/a/12526143) which is similar to what I’m trying to do. After modifying and debugging the code (which took a whole evening), I got it to work:
 
-![demo](http://dl.dropbox.com/u/72768665/github/2013.03.12/animate_radio.gif "demo")
+![demo](https://www.dropbox.com/s/9p0dz8kelkh975p/animate_radio.gif?raw=1 "demo")
 
 Here’s the JS source code:
 

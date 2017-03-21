@@ -41,19 +41,19 @@ In this section, I am going to show how HTML5 give mobile web users a better Use
 
 Below is the UX of the original email field:
 
-![original email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-bad.png "original email UX")
+![original email UX](https://www.dropbox.com/s/ep48om2r7e8cjmh/input-email-UX-bad.png?raw=1 "original email UX")
 
 With HTML5, noticed the '@' besides the spacebar:
 
-![improved email UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-email-UX-good.png "improved email UX")
+![improved email UX](https://www.dropbox.com/s/c8mefvhb95hq4ut/input-email-UX-good.png?raw=1 "improved email UX")
 
 The above example may not seem like a big improvement if you have [TouchPal](www.touchpal.com/) installed. But what if you need to enter in a telephone number? This is what we have in the original.
 
-![original phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-bad.png "original phone UX")
+![original phone UX](https://www.dropbox.com/s/8vnlt6fslw551wk/input-phone-UX-bad.png?raw=1 "original phone UX")
 
 With HTML5, users are presented with the keypad right away when selecting the phone field, which makes a better UX.
 
-![improved phone UX](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/input-phone-UX-good.png "improved phone UX")
+![improved phone UX](https://www.dropbox.com/s/i19u6ji6y859kb2/input-phone-UX-good.png?raw=1 "improved phone UX")
 
 ### How's it done ###
 HTML5 introduces a few <code>[input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)</code> 'type'. So just change the input type to <code>email</code> or <code>tel</code>, instead of <code>text</code>, like so:
@@ -69,7 +69,7 @@ While there is no discernible difference for non-mobile browsers, these properti
 
 Why AngularJS? First of all, I choose [AngularJS](http://angularjs.org/) for its two-way data-binding, one of its most notable features. See it in action below:
 
-![two-way data-binding at work](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/angularJS-magic.gif "two-way data-binding at work")
+![two-way data-binding at work](https://www.dropbox.com/s/odtxu5wj9s6r173/angularJS-magic.gif?raw=1 "two-way data-binding at work")
 
 Second of all, it comes with client-side form validation built into the framework itself. Try out the form validation for yourself on the improved page [here](http://jhkueh.github.io/teapot_digital_CI/).
 
@@ -80,7 +80,7 @@ Although jQuery can be used here, I find that angularJS give me a little bit mor
 ### Before and after comparison with PageSpeed Insights ###
 
 Here's the results from the [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) tool ([original](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.teapotdigital.com.au%2F) at the top and [improved](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fjhkueh.github.io%2Fteapot_digital_CI%2F&tab=mobile) at the bottom):
-![PageSpeed Comparison](https://dl.dropboxusercontent.com/u/72768665/github/2014.02.21/PageSpeed-comparison.png "PageSpeed Comparison")
+![PageSpeed Comparison](https://www.dropbox.com/s/7vsv3dcdqxaefbn/PageSpeed-comparison.png?raw=1 "PageSpeed Comparison")
 
 The improved page can be viewed [here](http://jhkueh.github.io/teapot_digital_CI/).
 
