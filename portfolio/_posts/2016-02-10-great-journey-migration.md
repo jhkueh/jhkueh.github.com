@@ -1,7 +1,7 @@
 ---
 title: Great Journey Migration
 external-url: http://www.greatjourneymigration.com.au
-thumbnail_url: https://dl.dropboxusercontent.com/u/72768665/portfolio/gjm_thumbnail.jpg
+thumbnail_url: https://www.dropbox.com/s/0c6o5v90u04eqdp/gjm_thumbnail.jpg?raw=1
 thumbnail_alt: GreatJourneyMigration.com.au
 date_range: 2015 - 2016
 ---

@@ -1,7 +1,7 @@
 ---
 title: freeCodeCamp Portfolio
 external-url: http://codepen.io/jhkueh/debug/KVNOqX
-thumbnail_url: https://dl.dropboxusercontent.com/u/72768665/portfolio/portfolio_thumbnail.jpg
+thumbnail_url: https://www.dropbox.com/s/xnnvx5tpwp2r1eb/portfolio_thumbnail.jpg?raw=1
 thumbnail_alt: freeCodeCamp Portfolio
 date_range: 2016
 ---

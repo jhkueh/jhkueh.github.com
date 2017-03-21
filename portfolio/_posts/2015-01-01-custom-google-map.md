@@ -1,7 +1,7 @@
 ---
 title: Custom Google Map
 external-url: http://jhkueh.github.io/demo-custom-google-map/index.html
-thumbnail_url: https://dl.dropboxusercontent.com/u/72768665/portfolio/gmd_thumbnail.jpg
+thumbnail_url: https://www.dropbox.com/s/jg9ynwc96jnv0oc/gmd_thumbnail.jpg?raw=1
 thumbnail_alt: Custom Google Map
 date_range: Feb 2015
 ---
